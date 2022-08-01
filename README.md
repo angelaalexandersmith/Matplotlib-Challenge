@@ -1,5 +1,14 @@
 # Matplotlib-Challenge
 Matplotlib Assignment
+Conclusions from Data
+
+It can be seen from the data that there is a strong positive correlation of 0.84 between the Weight in grams of the mouse and the volume of the Tumour Observed
+
+The data shows that as the timepoints increase on the Capomulin Treatment the Volume of the Tumour decreases
+
+Whilst Capomulin shows a sprong positive correlation we do also see that it was also tested on the highest number of mice
+
+
 # Unit 5 Homework: The Power of Plots
 
 What good is data without a good plot to tell the story?
